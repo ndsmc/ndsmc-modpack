@@ -1,0 +1,13 @@
+name = "Low Fire TXF"
+filename = "Low_fire_1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKu40yBb/versions/fwBxpI4B/Low_fire_1.20.zip"
+hash-format = "sha1"
+hash = "738b0dd937dc4c856b8878a2b22f47c3e887637d"
+
+[update]
+[update.modrinth]
+mod-id = "wKu40yBb"
+version = "fwBxpI4B"

@@ -1,0 +1,13 @@
+name = "Server Tick"
+filename = "servertick-mc1.20.2-1.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nEKRNLz9/versions/DrJ7grH7/servertick-mc1.20.2-1.9.jar"
+hash-format = "sha1"
+hash = "7fc4e133f5b0d44a21cae7e6c671f8834549ca21"
+
+[update]
+[update.modrinth]
+mod-id = "nEKRNLz9"
+version = "DrJ7grH7"

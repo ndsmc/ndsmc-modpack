@@ -1,0 +1,13 @@
+name = "Perspective Mod Redux"
+filename = "PerspectiveModRedux-1.17-0.0.5_01.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GwyFsKOX/versions/1/PerspectiveModRedux-1.17-0.0.5_01.jar"
+hash-format = "sha1"
+hash = "e2a40025de5d2c33c543ddb6661a1a47e37bc77d"
+
+[update]
+[update.modrinth]
+mod-id = "GwyFsKOX"
+version = "mBU1uAxH"

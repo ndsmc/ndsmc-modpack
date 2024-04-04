@@ -1,0 +1,13 @@
+name = "Styled Crosshair Fix"
+filename = "Stylized Fixed Crosshair - 1.20.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QRlf1n2D/versions/vq1XYaZY/Stylized%20Fixed%20Crosshair%20-%201.20.4.zip"
+hash-format = "sha1"
+hash = "d16622c45b7bbe0cbfd376c2ae6add2ac5a94b04"
+
+[update]
+[update.modrinth]
+mod-id = "QRlf1n2D"
+version = "vq1XYaZY"

@@ -1,0 +1,9 @@
+autoJump:false
+darkMojangStudiosBackground:true
+simulationDistance:5
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
+onboardAccessibility:true
+enableVsync:false
+lang:ru_ru
+skipMultiplayerWarning:true
+realmsNotifications:false

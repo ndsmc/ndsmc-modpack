@@ -1,0 +1,13 @@
+name = "Saturated Grass!"
+filename = "SaturatedGrass!.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqnzBmRw/versions/OqG5aAMc/SaturatedGrass%21.zip"
+hash-format = "sha1"
+hash = "772d1857b549a784e0a6d0a32af417bd7f1db42d"
+
+[update]
+[update.modrinth]
+mod-id = "lqnzBmRw"
+version = "OqG5aAMc"

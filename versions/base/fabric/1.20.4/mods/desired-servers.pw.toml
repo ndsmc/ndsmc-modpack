@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-fabric-1.20.2-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/ul5Tx6jd/desiredservers-fabric-1.20.2-1.3.1.jar"
+hash-format = "sha1"
+hash = "49960bf5fd308083adc313531f0dcf3e875dfcec"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "ul5Tx6jd"

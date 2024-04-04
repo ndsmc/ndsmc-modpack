@@ -1,0 +1,13 @@
+name = "LimboAuth Client Mod"
+filename = "limboauth-clientmod-1.0.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRrF51ps/versions/YvVKCJyV/limboauth-clientmod-1.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "3886e620f8574d5d1d3b0cbf2edf23f2af5fb839"
+
+[update]
+[update.modrinth]
+mod-id = "FRrF51ps"
+version = "YvVKCJyV"

@@ -1,0 +1,7 @@
+name = "KSEPSP"
+filename = "ksepsp.zip"
+
+[download]
+url = "https://s3.aeza.cloud/ndsmc/mc-packs/ksepsp.zip"
+hash-format = "sha256"
+hash = "114c97e9a7060dd817ac6870b54dc801ba100e55c388b3e5308c7780705b0b9a"

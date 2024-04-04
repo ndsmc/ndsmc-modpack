@@ -1,0 +1,13 @@
+name = "Model Optimizations & Fixes"
+filename = "Model O&F.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq2isoUl/versions/dRy0O0qU/Model%20O%26F.zip"
+hash-format = "sha1"
+hash = "877ebe4f30a5c8a447ff5630567ebef2b3acd596"
+
+[update]
+[update.modrinth]
+mod-id = "xq2isoUl"
+version = "dRy0O0qU"

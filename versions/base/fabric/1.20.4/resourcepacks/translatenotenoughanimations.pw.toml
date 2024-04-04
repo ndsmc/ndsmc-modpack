@@ -1,0 +1,13 @@
+name = "Translate the mod NotEnoughAnimations"
+filename = "NotenoughAnimationsTranslator.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oYRAN3VV/versions/nucd7V5u/NotenoughAnimationsTranslator.zip"
+hash-format = "sha1"
+hash = "97661634859e7d635c254da92fd9bc9ed110101c"
+
+[update]
+[update.modrinth]
+mod-id = "oYRAN3VV"
+version = "nucd7V5u"

@@ -1,0 +1,13 @@
+name = "RP Renames"
+filename = "RPRenames-1.20.4-0.8.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvqcuDMT/versions/LAOapkj7/RPRenames-1.20.4-0.8.1.jar"
+hash-format = "sha1"
+hash = "7f3829e1ef96f3f49226f1e5f2bbaea486d1ab6d"
+
+[update]
+[update.modrinth]
+mod-id = "hvqcuDMT"
+version = "LAOapkj7"

@@ -1,0 +1,13 @@
+name = "Transparent-er Glass"
+filename = "Transparent-er Glass.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6wiIKcy0/versions/VRAn6NTi/Transparent-er%20Glass.zip"
+hash-format = "sha1"
+hash = "67e9cf738e8d796f444ce99eadd2bc7a14cfdb98"
+
+[update]
+[update.modrinth]
+mod-id = "6wiIKcy0"
+version = "VRAn6NTi"

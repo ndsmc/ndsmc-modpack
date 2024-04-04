@@ -1,0 +1,7 @@
+name = "NDSMC Pack"
+filename = "ndsmc-pack.zip"
+
+[download]
+url = "https://s3.aeza.cloud/ndsmc/mc-packs/ndsmc-pack.zip"
+hash-format = "sha256"
+hash = "999f2e81e3d3855f0de7c61936cc13902eeff1a06f7ef50a87426efc1e62e52c"

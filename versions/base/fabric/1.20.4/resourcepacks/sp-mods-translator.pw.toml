@@ -1,0 +1,13 @@
+name = "SP Mods Translator"
+filename = "SP Mods Translator.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZDK22qv/versions/zoxPhfTs/SP%20Mods%20Translator.zip"
+hash-format = "sha1"
+hash = "271565106fab044529e7b38f41929b07149b953b"
+
+[update]
+[update.modrinth]
+mod-id = "FZDK22qv"
+version = "zoxPhfTs"

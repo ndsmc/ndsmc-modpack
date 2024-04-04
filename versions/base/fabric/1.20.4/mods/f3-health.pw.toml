@@ -1,0 +1,13 @@
+name = "F3 Health"
+filename = "F3Health-0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ZmIZ8gz/versions/6d9wjcRT/F3Health-0.2.jar"
+hash-format = "sha1"
+hash = "5636a09dc1c062651b547ab26dc908991dd21d1f"
+
+[update]
+[update.modrinth]
+mod-id = "3ZmIZ8gz"
+version = "6d9wjcRT"
