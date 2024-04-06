@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_left": [
       {
-        "text": "NDSMC Modpack Lite 1.0.0",
+        "text": "NDSMC Modpack Lite 1.0.1",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/ndsmc-modpack"

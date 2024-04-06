@@ -6,7 +6,7 @@ hash = "fbc0759ab3f39c78888c05d714e68ba5124a4896078ddca8a838618b16aa5d6b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e20636e5b6307879aba276c1c30b4228714441d90e20d0ffb9047f07cdc3c00e"
+hash = "4fa590ad2b1372c7363a093fc4ccd3a87133eed075fa3b9c0bb9b389ad8d34f2"
 
 [[files]]
 file = "config/puzzle.json"
@@ -1735,11 +1735,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
-metafile = true
-
-[[files]]
-file = "mods/morecullingextra.pw.toml"
-hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
 metafile = true
 
 [[files]]
