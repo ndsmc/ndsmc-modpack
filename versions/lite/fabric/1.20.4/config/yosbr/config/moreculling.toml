@@ -1,0 +1,8 @@
+version = 1
+itemFrameLODRange = 64
+itemFrame3FaceCullingRange = 0.0
+includeMangroveRoots = true
+leavesCullingMode=FAST
+includeMangroveRoots=true
+endGatewayCulling=true
+entityModelCulling=true

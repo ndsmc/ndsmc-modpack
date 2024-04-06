@@ -1,0 +1,16 @@
+name = "NDSMC Modpack Lite"
+author = "FnlTochka"
+version = "1.0.0+lite.1.20.4.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e8b00ea72fa6727c618861e7f1b843be1ff175467604f2ff83ff20afe2d96fe"
+
+[versions]
+fabric = "0.15.9"
+minecraft = "1.20.4"
+
+[options]
+acceptable-game-versions = ["1.19.4", "1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"]

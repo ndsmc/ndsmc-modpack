@@ -1,7 +1,5 @@
-create-links-fabric:
+create-links:
 	python3 create-links.py
-
-create-links: create-links-fabric
 
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
@@ -20,8 +18,8 @@ update-%:
 refresh-%:
 	cd versions/$(subst -,/,$*) && pw batch refresh
 
-refresh: refresh-base-fabric refresh-debug-fabric refresh-lite-fabric
+refresh: refresh-base-fabric refresh-lite-fabric
 
-update: update-base-fabric
+update: update-base-fabric refresh-lite-fabric
 
-export: export-base-fabric
+export: export-base-fabric export-lite-fabric

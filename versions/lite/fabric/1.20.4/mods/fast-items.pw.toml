@@ -1,0 +1,13 @@
+name = "Fast Items"
+filename = "fastitems-1.0.0-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H80QSt2v/versions/eZJFhoOU/fastitems-1.0.0-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "f9c8a1e9985cda64f2f121d2dabbb38c6a8c2f63"
+
+[update]
+[update.modrinth]
+mod-id = "H80QSt2v"
+version = "eZJFhoOU"

@@ -1,0 +1,13 @@
+name = "Blocky Bubbles"
+filename = "blocky-bubbles-1.0.1+1.20.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pubtjcn/versions/BsVoE9CR/blocky-bubbles-1.0.1%2B1.20.3.jar"
+hash-format = "sha1"
+hash = "d28502a38e2125aedf7b62b2c9082c3217ea3236"
+
+[update]
+[update.modrinth]
+mod-id = "9pubtjcn"
+version = "BsVoE9CR"

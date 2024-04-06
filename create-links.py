@@ -24,6 +24,11 @@ def create_symlink(source, target):
         else:
             return
 
+    targetDisabled = target + ".disabled"
+
+    if (os.path.exists(targetDisabled)):
+        return
+
     os.makedirs(os.path.dirname(target), exist_ok=True)
     os.symlink(os.path.relpath(source, start=os.path.dirname(target)), target)
 
@@ -55,3 +60,18 @@ def create_symlinks(loader, mc_version):
 
 
 create_symlinks("fabric", "1.20.4")
+
+def clean_invalid_symlinks(directory):
+    """
+    Очищает недействительные символические ссылки в указанном каталоге.
+
+    Args:
+        directory (str): Каталог, в котором необходимо очистить недействительные символические ссылки.
+    """
+    for root, dirs, files in os.walk(directory):
+        for item in files:
+            filepath = os.path.join(root, item)
+            if os.path.islink(filepath) and not os.path.exists(filepath):
+                os.remove(filepath)
+
+clean_invalid_symlinks("versions")

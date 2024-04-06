@@ -1760,6 +1760,11 @@ hash = "f3636b986e4bf3fd2c66e393dca81170247b157b076f02160ff755e17dc792a9"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
+metafile = true
+
+[[files]]
 file = "mods/perspective-mod-redux.pw.toml"
 hash = "c65714d41e881c9149122eb89435ea85fde6ebd01ad2e63a1cf9ffad7f1f3e83"
 metafile = true
@@ -1837,11 +1842,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
-metafile = true
-
-[[files]]
-file = "mods/waygl.pw.toml"
-hash = "a7ee1a865e183b594ea78991d71b5ab4bb7caaca9c7a5ab132d3cd2a31dc3fa5"
 metafile = true
 
 [[files]]
